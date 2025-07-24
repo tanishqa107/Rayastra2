@@ -109,7 +109,7 @@ export function ExpandableCardDemo() {
   useEffect(() => {
     const fetchUserClass = async () => {
       try {
-        const res = await axios.get("http://localhost:3000/api/v1/getUserInfo", {
+        const res = await axios.get("https://rayastra2.onrender.com/api/v1/getUserInfo", {
           params: { email },
         });
         setUserClass(res.data.class);
@@ -172,7 +172,7 @@ export function ExpandableCardDemo() {
   
       const amount = pricing[type] * 100; // Razorpay expects amount in paise
   
-      const { data } = await axios.post("http://localhost:3000/api/v1/create-order", {
+      const { data } = await axios.post("https://rayastra2.onrender.com/api/v1/create-order", {
         amount,
         currency: "INR",
       });
@@ -196,7 +196,7 @@ export function ExpandableCardDemo() {
         handler: async function (response: any) {
           if (!active || typeof active === "boolean") return;
   
-          const verifyRes = await axios.post("http://localhost:3000/api/v1/verify-payment", {
+          const verifyRes = await axios.post("https://rayastra2.onrender.com/api/v1/verify-payment", {
             razorpay_order_id: response.razorpay_order_id,
             razorpay_payment_id: response.razorpay_payment_id,
             razorpay_signature: response.razorpay_signature,

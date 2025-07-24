@@ -36,7 +36,7 @@ const SignUp = () => {
         email,
       };
 
-      const res = await axios.post("http://localhost:3000/api/v1/handleInfo", payload);
+      const res = await axios.post("https://rayastra2.onrender.com/api/v1/handleInfo", payload);
 
       console.log("Info saved:", res.data);
       

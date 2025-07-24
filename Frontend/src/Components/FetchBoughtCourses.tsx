@@ -22,7 +22,7 @@ const PurchasedCourses: React.FC = () => {
 
       try {
         const response = await axios.get(
-          `http://localhost:3000/api/v1/getuserspurchasedcourses/${userId}`
+          `https://rayastra2.onrender.com/api/v1/getuserspurchasedcourses/${userId}`
         );
         setCourses(response.data.courses || []);
       } catch (err: any) {

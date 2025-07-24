@@ -63,7 +63,7 @@ const AuthForm: React.FC = () => {
 
     try {
       if (mode === 'signup') {
-        const response = await axios.post('http://localhost:3000/api/v1/signup', {
+        const response = await axios.post('https://rayastra2.onrender.com/api/v1/signup', {
           email: formData.email,
           password: formData.password
         });
@@ -80,7 +80,7 @@ const AuthForm: React.FC = () => {
          navigate('/signup');
         
       } else {
-        const response = await axios.post('http://localhost:3000/api/v1/signin', {
+        const response = await axios.post('https://rayastra2.onrender.com/api/v1/signin', {
           enteredemail: formData.email,
           enteredpassword: formData.password
         });
