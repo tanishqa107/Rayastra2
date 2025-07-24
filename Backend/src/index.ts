@@ -88,7 +88,7 @@ app.post("/api/v1/signup", async (req: Request, res: Response) => {
     const saltRounds = 10;
     const hashedPassword = await bcrypt.hash(password, saltRounds);
 
-    const { data, error } = await supabase
+    const { data:fullUser, error } = await supabase
       .from("users")
       .insert([{ email, password: hashedPassword }])
       .select("user_id")
@@ -100,7 +100,14 @@ app.post("/api/v1/signup", async (req: Request, res: Response) => {
       
     }
 
-    res.status(201).json({ message: "User created", user_id: data.user_id });
+    res.status(201).json({
+      message: "User created",
+      user: {
+        user_id: fullUser.user_id,
+        email
+      }
+    });
+    
   } catch (err) {
     console.error("Error:", err);
     res.status(500).json({ message: "Internal server error" });
