@@ -3,7 +3,7 @@ import { InfiniteMovingCardsDemo } from "./moving-cards";
 const Updates = () => {
   return (
     <section
-      id="who-are-we"
+      id="updates"
       className="w-full h-auto py-20 bg-yellow-50  transition-colors"
     >
       <div className="max-w-6xl mx-auto px-4 text-center flex flex-col items-center">

@@ -24,6 +24,7 @@ const Hero = () => {
   return (
     <div
       ref={containerRef}
+      id="about-us"
       className="relative bg-gradient-to-br from-black via-[#2E1065] to-purple-900 h-screen overflow-hidden"
     >
       <video

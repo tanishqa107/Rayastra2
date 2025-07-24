@@ -3,7 +3,7 @@ import { TabsDemo } from "./TabsDemo";
 export default function Offerings() {
   return (
     <section
-      id="who-are-we"
+      id="our-offerings"
       className="w-full py-20 bg-yellow-50  transition-colors"
     >
       <div className="max-w-6xl mx-auto px-6 text-center">

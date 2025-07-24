@@ -3,7 +3,7 @@ import { CardHoverEffectDemo } from "./cardHover";
 const Courses = () => {
   return (
     <section
-      id="who-are-we"
+      id="courses"
       className="w-full py-20 bg-yellow-50  transition-colors"
     >
       <div className="max-w-6xl mx-auto px-4 text-center flex flex-col items-center">

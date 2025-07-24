@@ -4,7 +4,7 @@ import { CarouselDemo } from "./carouselDemo";
 export default function Testimonials() {
   return (
     <section
-      id="who-are-we"
+      id="testimonials"
       className="w-full py-20 bg-yellow-50  transition-colors"
     >
        

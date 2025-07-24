@@ -11,6 +11,8 @@ import "./App.css";
 const App = () => {
   return (
     <>
+    <div className="overflow-x-hidden">
+
       <style>
         {`
           @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
@@ -57,7 +59,9 @@ const App = () => {
       <BrowserRouter>
         <AppRoutes />
       </BrowserRouter>
+      </div>
     </>
+    
   );
 };
 
