@@ -1,0 +1,46 @@
+[
+  {
+    "description": "Rayastra Scholars Program ",
+    "title": "Full School Curriculum",
+    "src": "https://img.freepik.com/free-vector/hand-drawn-report-card-template_23-2149539317.jpg",
+    "ctaText": "Buy Now",
+    "ctaLink": "#",
+    "detailImage": "school-detail.jpg",
+    "id":"1",
+    "pdfLink": "/pdf/class 2.pdf",
+    "contentSummary": "Parent Overview:\nThe Class 2 Scholar Program is designed to align with your child’s full school curriculum — covering every subject, assignment, test, and project — while adding creativity, values, and application-based learning. Students deepen their reading, writing, problem-solving, and general awareness while exploring concepts beyond rote memorization.\n\nSubjects include English, Hindi, Mathematics, EVS, GK, Moral Science, Art, and Expression.\n\nWhat makes us different:\n- Structured Rayastra’s kit with all expert learning amenities at your home\n- Personalized teacher-parent meetings and feedback sessions\n- Covers all school-given tests, assignments, and projects in a skill-based format\n- Weekly interactive worksheets, project ideas, and activity-led learning\n- Parent+Child Progress Dashboard to monitor academic, behavioral, and skill growth\n- Merit Badges for reading, discipline, creativity, and academic consistency\n- Builds classroom confidence while nurturing analytical and expressive abilities\n\nCHECK OUT THE DETAILS OF THE PROGRAM IN THE PDF"
+  },
+  {
+   "description": "CodeVoyagers ",
+    "title": "Computer Science",
+    "id":"2",
+    "detailImage": "coding-detail.jpg",
+    "src": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "ctaText": "Buy Now",
+    "ctaLink": "#",
+    "pdfLink": "/pdf/class 2.pdf",
+    "contentSummary": "In Class 2, CodeVoyagers introduces children to the structured world of computational logic, visual commands, and early coding concepts. Students use story-based logic maps, digital tools, and hands-on kits to practice flow-based thinking and problem-solving. It’s the perfect balance of creative tech and real-world thinking.\n\nThis is where your child begins understanding how apps, websites, and simple programs work.\n\nWhat makes us different:\n- Structured Rayastra’s kit with all expert learning amenities at your home\n- Personalized teacher-parent meetings and feedback sessions\n- Hands-on command flow, sequencing, and visual programming logic\n- Creative puzzles and unplugged algorithm games\n- Brain Gym & Logic Vault to challenge and sharpen thinking\n- Parent+Child Dashboard showing progress in logic, creativity, and early tech application\n- Builds readiness for block-based coding platforms and Olympiad preparation\n\nCHECK OUT THE DETAILS OF THE PROGRAM IN THE PDF"
+  },
+  {
+    "description": "Cosmic Communicators ",
+    "title": "Spoken & Written English",
+    "id":"3",
+    "detailImage": "english-detail.jpg",
+    "src": "https://images.unsplash.com/photo-1579762715118-a6f1d4b934f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "ctaText": "Buy Now",
+    "ctaLink": "#",
+    "pdfLink": "/pdf/class 2.pdf",
+    "contentSummary": "Cosmic Communicators in Class 2 focuses on strengthening spoken fluency, grammar, pronunciation, and written expression. Students learn to speak confidently, present ideas, structure clear sentences, and comprehend short passages. This program builds both classroom English and social confidence.\n\nThe curriculum also introduces global language exposure to French, German, and Italian patterns via integrated Duolingo methods.\n\nWhat makes us different:\n- Structured Rayastra’s kit with all expert learning amenities at your home\n- Personalized teacher-parent meetings and feedback sessions\n- Spoken English focus: correct accent, fluency, sentence formation, expression\n- Writing modules: picture composition, guided writing, punctuation, spelling\n- Lights, Camera, Confidence! video-based performance and practice\n- Optional multi-language training - may it be French, German, or any other\n- Builds expressive, confident speakers with strong academic communication skills\n\nCHECK OUT THE DETAILS OF THE PROGRAM IN THE PDF"
+  },
+  {
+    "description": "MathMagicians’ Lab ",
+    "title": "Mathematics",
+    "src": "https://images.unsplash.com/photo-1575505586569-646b2ca898fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "ctaText": "Buy Now",
+    "detailImage": "maths-detail.jpg",
+    "id":"4",
+    "ctaLink": "#",
+    "pdfLink": "/pdf/class 2.pdf",
+      "contentSummary": "Class 2 MathMagicians explore math in the real world — using Rayastra’s visual and tactile tools to master number operations, measurements, geometry, and problem-solving. This program makes sure your child doesn’t just “solve” — they understand the logic behind each concept.\n\nMath becomes a language of decision-making, patterns, and smart thinking.\n\nWhat makes us different:\n- Structured Rayastra’s kit with all expert learning amenities at your home\n- Personalized teacher-parent meetings and feedback sessions\n- Topics include 3-digit operations, money, time, shapes, and data handling\n- Hands-on activities that connect school math to shopping, cooking, and travel\n- Brain Gym challenges for speed, accuracy, and logical fluency\n- Merit Badges for concept clarity, application, and real-world use\n- Builds strong problem-solving abilities and Olympiad-aligned confidence\n\nCHECK OUT THE DETAILS OF THE PROGRAM IN THE PDF"
+  }
+]

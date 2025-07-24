@@ -1,0 +1,46 @@
+[
+  {
+   "description": "Rayastra Scholars Program ",
+    "title": "Full School Curriculum",
+    "src": "https://img.freepik.com/free-vector/hand-drawn-report-card-template_23-2149539317.jpg",
+    "ctaText": "Buy Now",
+    "detailImage": "school-detail.jpg",
+    "id":"1",
+    "pdfLink": "/pdf/class 8.pdf",
+    "ctaLink": "#",
+    "contentSummary": "Parent Overview:\nThe Class 8 Scholar Program is designed to build academic depth, exam preparedness, and independent learning. Fully aligned with school curriculum, it supports assignments, tests, concept reinforcement, and project work across all core subjects. Emphasis is placed on structured note-making, analytical writing, and inter-topic understanding — skills crucial for high school success.\n\nSubjects include English, Hindi, Mathematics, Science, Social Science, Computer Science, GK, Value Education, and Art.\n\nWhat makes us different:\n\n- Structured Rayastra’s kit with all expert learning amenities at your home\n- Personalized teacher-parent meetings and feedback sessions\n- Comprehensive support for school syllabus, assessments, and practicals\n- Subject-wise concept revision cards and creative retention techniques\n- Parent+Child Progress Dashboard to track knowledge depth and focus areas\n- Merit Badges for research, academic discipline, creative interpretation, and leadership\n- Builds academic confidence and high-school readiness through strategic learning\n\nCHECK OUT THE DETAILS OF THE PROGRAM IN THE PDF"
+  },
+  {
+    "description": "CodeVoyagers ",
+    "id":"2",
+    "detailImage": "coding-detail.jpg",
+    "title": "Computer Science",
+    "src": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "ctaText": "Buy Now",
+    "ctaLink": "#",
+    "pdfLink": "/pdf/class 8.pdf",
+    "contentSummary": "Parent Overview:\nIn Class 8, CodeVoyagers exposes students to the real-world application of trending tech like AI, ML, web development, and logic design through interactive projects and low-code tools. Learners understand the backend logic of modern digital tools and begin applying structured computational thinking to real problems.\n\nThis is the stage where students begin building and presenting actual tech prototypes.\n\nWhat makes us different:\n\n- Structured Rayastra’s kit with all expert learning amenities at your home\n- Personalized teacher-parent meetings and feedback sessions\n- Hands-on coding with Scratch Advanced, MIT App Inventor, HTML/CSS, and AI tools\n- Brain Gym & Logic Vault with layered design problems and case-based logic\n- Projects include personal web portfolios, AI-based quizzes, and app mockups\n- Parent+Child Dashboard to track growth in coding skill, design quality, and logic\n- Builds readiness for hackathons, Olympiads, and foundational tech career exposure\n\nCHECK OUT THE DETAILS OF THE PROGRAM IN THE PDF"
+  },
+  {
+    "description": "Cosmic Communicators ",
+    "id":"3",
+    "detailImage": "english-detail.jpg",
+    "title": "Spoken & Written English",
+    "src": "https://images.unsplash.com/photo-1579762715118-a6f1d4b934f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "ctaText": "Buy Now",
+    "ctaLink": "#",
+    "pdfLink": "/pdf/class 8.pdf",
+    "contentSummary": "Parent Overview:\nClass 8 learners take a big leap in mastering both formal and creative English. Cosmic Communicators supports debate preparation, critical essays, grammar fluency, and confident stage presence. Students practice academic writing, oral presentations, and accent clarity — enabling them to communicate boldly in any setting.\n\nOptional multilingual integration helps students diversify their global expression and comprehension skills.\n\nWhat makes us different:\n\n- Structured Rayastra’s kit with all expert learning amenities at your home\n- Personalized teacher-parent meetings and feedback sessions\n- Grammar workshops, structured essays, persuasive and descriptive writing\n- Debate clubs, speech prep, extempore, podcast recording, and panel hosting\n- Lights, Camera, Confidence! program for accent training and verbal fluency\n- Optional multi language training - may it be French, German, or any other..\n- Develops confident, globally-competent academic and expressive communicators\n\nCHECK OUT THE DETAILS OF THE PROGRAM IN THE PDF"
+  },
+  {
+    "description": "MathMagicians’ Lab ",
+    "detailImage": "maths-detail.jpg",
+    "id":"4",
+    "title": "Mathematics",
+    "src": "https://images.unsplash.com/photo-1575505586569-646b2ca898fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "ctaText": "Buy Now",
+    "ctaLink": "#",
+    "pdfLink": "/pdf/class 8.pdf",
+        "contentSummary": "Parent Overview:\nThe Class 8 MathMagicians Lab focuses on structured problem-solving, data literacy, and advanced logic application. Learners gain fluency in topics like algebra, statistics, and 3D geometry — while solving real-world math challenges through hands-on projects and analytical tools.\n\nIt’s about building mathematical thinkers who thrive in academics and beyond.\n\nWhat makes us different:\n\n- Structured Rayastra’s kit with all expert learning amenities at your home\n- Personalized teacher-parent meetings and feedback sessions\n- Covers algebra, linear equations, data handling, mensuration, and practical geometry\n- Brain Gym with real-life simulations: profit-loss planning, scale models, math analytics\n- Project-based learning: stock market math, survey data analysis, DIY geometry kits\n- Merit Badges for abstract thinking, logical depth, and speed-solving\n- Builds Olympiad-level readiness and applied math decision-making skills\n\nCHECK OUT THE DETAILS OF THE PROGRAM IN THE PDF"
+  }
+]

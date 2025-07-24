@@ -1,0 +1,47 @@
+[
+  
+  {
+    "description": "Rayastra Scholars Program ",
+    "title": "Full School Curriculum",
+    "id":"1",
+    "src": "school.jpg",
+    "detailImage": "school-detail.jpg",
+    "ctaText": "Buy Individual Course",
+    "ctaLink": "#",
+    "pdfLink": "/pdf/class -2.pdf",
+    "contentSummary": "Parent Overview:\nThe Nursery Scholar Program at Rayastra is your child’s first structured step into the world of learning. We align with your school’s complete curriculum and support all tests, assignments, and projects with creative reinforcement at home. From early literacy to personal skills, we build foundational readiness through joyful exploration.\n\nWe blend academics with curiosity — covering English, Hindi, Maths, EVS, Storytelling, GK, Fine Motor Skills, and more — all delivered through a mix of structured learning and play-based activities.\n\nWhat makes us different:\n\n- Structured Rayastra’s kit with all expert learning amenities at your home\n- Personalized teacher-parent meetings and feedback sessions\n- All school-given assignments, projects, and tests supported\n- Thematic activity sheets, storytelling modules, and sensory kits\n- Parent+Child Progress Dashboard for holistic tracking\n- Merit Badges for milestones in behavior, learning, and creativity\n- Builds the foundation for long-term school success through joyful learning\n\nCHECK OUT THE DETAILS OF THE PROGRAM IN THE PDF"
+  },
+  {
+    "description": "CodeVoyagers ",
+    "title": "Computer Science",
+    "src": "coding.jpg",
+    "detailImage": "coding-detail.jpg",
+    "id":"2",
+    "ctaText": "Buy Individual Course",
+    "ctaLink": "#",
+    "pdfLink": "/pdf/class -2.pdf",
+    "contentSummary": "Parent Overview:\nEven in Nursery, computational thinking begins! Our CodeVoyagers program introduces the basics of logic, patterns, sequencing, and digital understanding — all without screen overload. Children build the roots of coding through storytelling, movement, and real-world objects.\n\nWe lay the groundwork for future tech exploration through unplugged coding, logic puzzles, and age-appropriate digital activities.\n\nWhat makes us different:\n\n- Structured Rayastra’s kit with all expert learning amenities at your home\n- Personalized teacher-parent meetings and feedback sessions\n- Pattern recognition, sorting, and cause-effect games using toys and tools\n- Brain Gym for logical thinking and early decision-making\n- Progress tracked via Parent+Child Dashboard\n- Early exposure to how computers “think” — without devices\n- Sets the stage for future Olympiads, robotics, and coding adventures\n\nCHECK OUT THE DETAILS OF THE PROGRAM IN THE PDF"
+  },
+  {
+    "description": "Cosmic Communicators ",
+    "title": "Spoken & Written English",
+    "src": "english.jpg",
+    "detailImage": "english-detail.jpg",
+    "ctaText": "Buy Individual Course",
+    "id":"3",
+    "ctaLink": "#",
+    "pdfLink": "/pdf/class -2.pdf",
+    "contentSummary": "Parent Overview:\nOur Nursery-level Art & Creativity module encourages exploration through color, texture, and imagination. Children express emotions, ideas, and stories using paints, paper crafts, clay modeling, and sensory play. Fine motor skills are built through fun, structured art activities.\n\nWe use creative expression as a tool for self-confidence and joyful discovery.\n\nWhat makes us different:\n\n- Structured Rayastra’s kit with all expert learning amenities at your home\n- Personalized teacher-parent meetings and feedback sessions\n- Theme-based art kits: finger painting, collage, stamping, and color mixing\n- Guided imagination time with story-inspired art\n- Skill growth tracking via Parent+Child Dashboard\n- Builds fine motor control, emotional expression, and visual creativity\n\nCHECK OUT THE DETAILS OF THE PROGRAM IN THE PDF"
+  },
+  {
+    "description": "MathMagicians’ Lab ",
+    "title": "Mathematics",
+    "src": "maths.jpg",
+    "detailImage": "maths-detail.jpg",
+    "id":"4",
+    "ctaText": "Buy Individual Course",
+    "ctaLink": "#",
+    "pdfLink": "/pdf/class -2.pdf",
+    "contentSummary": "Parent Overview:\nRayastra’s Science Explorers introduces young minds to the wonders of the world around them. Children learn through observation, questioning, and play-based discovery. Topics include plants, animals, seasons, the human body, and nature — all presented through fun, hands-on kits.\n\nWe spark scientific thinking early through touch, talk, and trial.\n\nWhat makes us different:\n\n- Structured Rayastra’s kit with all expert learning amenities at your home\n- Personalized teacher-parent meetings and feedback sessions\n- Science-themed storybooks, discovery jars, sorting games, and nature walks\n- Observation cards and vocabulary-building games\n- Parent+Child Dashboard to track curiosity and concept growth\n- Builds early science inquiry, vocabulary, and observation skills\n\nCHECK OUT THE DETAILS OF THE PROGRAM IN THE PDF"
+  }
+]
